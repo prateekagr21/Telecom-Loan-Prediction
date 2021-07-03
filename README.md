@@ -8,4 +8,18 @@ _Today, microfinance is widely accepted as a poverty-reduction tool, representin
 _One of our Client in Telecom collaborates with an MFI to provide micro-credit on mobile balances to be paid back in 5 days. The Consumer is believed to be delinquent if he deviates from the path of paying back the loaned amount within 5 days._
 
 
+### WHAT I have DONE IN THIS NOTEBOOK :
+I have created a delinquency model which can predict in terms of a probability for each loan transaction,
+whether the customer will be paying back the loaned amount within 5 days of insurance of loan.
 
+![mfs](https://user-images.githubusercontent.com/73397927/124344043-c5f79000-dbed-11eb-86ba-b4a641db074f.jpg)
+
+## For Solving this Usecase, Whati have done is :
+- Collected the data from kaggle and organized to form a meaningful dataset.
+- Checked for null values and observed the data to form meaningful insights.
+- Did Exploratory Data Analysis on the dataset.
+- Visualizations were made by using Matplotlib and Seaborn Libraries.
+- Finded correlation to form a Heatmap.
+
+## And then I made a Model for the Prediction :
+- Did Train-Test split after getting Independent and Dependent Features.
