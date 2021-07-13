@@ -26,7 +26,7 @@ whether the customer will be paying back the loaned amount within 5 days of insu
 - Did Train-Test split
 
 ## Fitted the Model by using :
--  RandomForestClassifier
+-  RandomForestClassifier.
 -  Improved the accuracy by using Cross Validation Score.
 -  SupportVectorMachine
 
